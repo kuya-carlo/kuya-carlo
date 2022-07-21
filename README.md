@@ -24,21 +24,26 @@
 
 <br/>
 <br/>
-<!--Hit Counter-->
-<a href="https://github.com/lasersPew#gh-light-mode-only">
-  <img src="https://count.getloli.com/get/@kuya-carlo?theme=moebooru" alt=":name" />
-</a>
+<div>
+  <div align="center">
+    <!--Hit Counter-->
+    <a href="https://github.com/lasersPew#gh-light-mode-only">
+      <img src="https://count.getloli.com/get/@kuya-carlo?theme=moebooru" alt=":name" />
+    </a>
 
-<a href="https://github.com/lasersPew#gh-dark-mode-only">
-  <img src="https://count.getloli.com/get/@kuya-carlo?theme=rule34" alt=":name" />
-</a>
+    <a href="https://github.com/lasersPew#gh-dark-mode-only">
+      <img src="https://count.getloli.com/get/@kuya-carlo?theme=rule34" alt=":name" />
+    </a>
 
-</br>
+  </div>
+  </br>
+  <div align="center">
+    <a href="https://github.com/lasersPew#gh-light-mode-only">
+      <img src="https://github-readme-stats.vercel.app/api?username=lasersPew&show_icons=true&theme=vue#gh-light-mode-only" alt="My GitHub Stats" />
+    </a>
 
-<a href="https://github.com/lasersPew#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=lasersPew&show_icons=true&theme=vue#gh-light-mode-only" alt="My GitHub Stats" />
-</a>
-
-<a href="https://github.com/lasersPew#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=lasersPew&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="My GitHub Stats" />
-</a>
+    <a href="https://github.com/lasersPew#gh-dark-mode-only">
+      <img src="https://github-readme-stats.vercel.app/api?username=lasersPew&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="My GitHub Stats" />
+    </a>
+  </div>
+</div>
