@@ -24,7 +24,7 @@
 
 <br/>
 <br/>
-<div>
+<div align="left">
   <div align="center">
     <!--Hit Counter-->
     <div>
