@@ -33,12 +33,12 @@
         <!--Hit Counter-->
         <div>
           <a href="https://github.com/kuya-carlo#gh-light-mode-only">
-            <img src="https://count.getloli.com/get/@kuya-carlo?theme=moebooru" alt=":name" />
+            <img src="https://count.getloli.com/get/@kuya-carlo?theme=moebooru" alt="sage" />
           </a>
         </div>
         <div>
           <a href="https://github.com/kuya-carlo#gh-dark-mode-only">
-            <img src="https://count.getloli.com/get/@kuya-carlo?theme=rule34" alt=":name" />
+            <img src="https://count.getloli.com/get/@kuya-carlo?theme=rule34" alt="sage2" />
           </a>
         </div>
       </div>
