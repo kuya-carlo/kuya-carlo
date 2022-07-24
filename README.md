@@ -24,32 +24,53 @@
 
 <br/>
 <br/>
-<div align="left">
-  <div align="center">
-    <!--Hit Counter-->
-    <div>
-      <a href="https://github.com/lasersPew#gh-light-mode-only">
-        <img src="https://count.getloli.com/get/@kuya-carlo?theme=moebooru" alt=":name" />
-      </a>
-    </div>
-    <div>
-      <a href="https://github.com/lasersPew#gh-dark-mode-only">
-        <img src="https://count.getloli.com/get/@kuya-carlo?theme=rule34" alt=":name" />
-      </a>
-    </div>
-  </div>
-  </br>
-  <div align="center">
-    <div>
-      <a href="https://github.com/lasersPew#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=lasersPew&show_icons=true&theme=vue#gh-light-mode-only" alt="My GitHub Stats" />
-      </a>
-    </div>
-    <div>
-      <a href="https://github.com/lasersPew#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=lasersPew&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="My GitHub Stats" />
-      </a>
-    </div>
 
+# Stats
+<div>
+  <div>
+    <div>
+      <div align='center'>
+        <!--Hit Counter-->
+        <div>
+          <a href="https://github.com/kuya-carlo#gh-light-mode-only">
+            <img src="https://count.getloli.com/get/@kuya-carlo?theme=moebooru" alt=":name" />
+          </a>
+        </div>
+        <div>
+          <a href="https://github.com/kuya-carlo#gh-dark-mode-only">
+            <img src="https://count.getloli.com/get/@kuya-carlo?theme=rule34" alt=":name" />
+          </a>
+        </div>
+      </div>
+    </div>
+    <br/>
+    <div>
+      <div style="flex:1;display:flex;justify-content:center;align-items:center;">
+        <div align='center'>
+          <div>
+            <a href="https://github.com/lasersPew#gh-light-mode-only">
+              <img src="https://github-readme-stats.vercel.app/api?username=lasersPew&show_icons=true&theme=vue#gh-light-mode-only" alt="My GitHub Stats"/>
+            </a>
+          </div>
+          <div>
+            <a href="https://github.com/lasersPew#gh-dark-mode-only">
+              <img src="https://github-readme-stats.vercel.app/api?username=lasersPew&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="My GitHub Stats"/>
+            </a>
+          </div>
+        </div>  
+        <div align='center'>
+          <div>
+            <a href="https://github.com/kuya-carlo#gh-light-mode-only">
+              <img src="https://github-readme-stats.vercel.app/api?username=kuya-carlo&show_icons=true&theme=vue#gh-light-mode-only" alt="My GitHub Stats"/>
+            </a>
+          </div>
+          <div>
+            <a href="https://github.com/kuya-carlo#gh-dark-mode-only">
+              <img src="https://github-readme-stats.vercel.app/api?username=kuya-carlo&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="My GitHub Stats"/>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
