@@ -32,7 +32,7 @@ I like working on things that **mean something**, not just *do something*.
 ## 🧭 Current Focus
 
 - 🧱 Mastering Next.js 15+ with proper CI/CD pipelines  
-- 🧑‍💻 Building *Klima* - crowdsourced app for disaster safety
+- 🧑‍💻 Refining *Transpo Buddy* — my concept for smarter commuter systems  
 - 🧩 Learning Material Design 3 deeply (beyond surface aesthetics)  
 - 🈺 Improving my Japanese (N5 → N3 goal)  
 - 🧰 Exploring cybersecurity & forensics more hands-on  
@@ -87,3 +87,25 @@ Give him a problem with meaning, and he’ll build something that works — and 
 ---
 
 ### 🖥️ Environment Specs
+```
+
+Distro: Fedora 42 (Wayland)
+Editor: VSCode + Neovim hybrid
+Shell: Bash / Fish
+Theme: Low-contrast dark (MD3 inspired)
+Languages: Python, C++, TypeScript, Bash
+
+```
+
+---
+
+### 📫 Reach Out
+
+Feel free to open an issue, start a discussion, or just say hi.  
+I like talking about clean systems, clever UI, or weird Linux setups.
+
+```
+
+printf("Let's build something cool.\n");
+
+```
