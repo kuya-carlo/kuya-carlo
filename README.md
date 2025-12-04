@@ -38,10 +38,10 @@ Want to see how I **learn, build, and think**? Check out my Humanual — it’s 
   </div>
   <div>
     <a href="https://github.com/kuya-carlo#gh-light-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api?username=kuya-carlo&show_icons=true&theme=vue#gh-light-mode-only" alt="My GitHub Stats"/>
+      <img src="https://readme-stats-flame-eta.vercel.app/api?username=kuya-carlo&show_icons=true&theme=vue#gh-light-mode-only" alt="My GitHub Stats"/>
     </a>
     <a href="https://github.com/kuya-carlo#gh-dark-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api?username=kuya-carlo&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="My GitHub Stats"/>
+      <img src="https://readme-stats-flame-eta.vercel.app/api?username=kuya-carlo&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="My GitHub Stats"/>
     </a>
   </div>
 </div>
