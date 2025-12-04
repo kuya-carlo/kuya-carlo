@@ -12,7 +12,7 @@ A generalist software engineer and student. I build clean, practical web systems
 
 Want to see how I **learn, build, and think**? Check out my Humanual — it’s like a README for me:  
 
-[![Dev Humanual](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)](DEV_HUMANUAL/HUMANUAL)
+[![Dev Humanual](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)](DEV_HUMANUAL.md)
 
 > Click the badge to see how I operate, collaborate, and tinker — for both devs and curious humans.
 
