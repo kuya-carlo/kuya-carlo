@@ -7,8 +7,8 @@
 ## 🙋 About Me
 
 - Karlo (kuyacarlo) — CompE student, Y3  
-- ENTP Type 5 — curious, systems-minded, likes exploring trade-offs before committing  
-- Driven by love of the game first; money is a cherry on top, not the point  
+- INFP/ENTP — curious, systems-minded, likes exploring trade-offs before committing  
+- Driven by love of the game: let it ride  
 - Into civic tech, and where tech, design, and culture intersect  
 
 ---
@@ -47,6 +47,7 @@
 - Structured, modular projects  
 - Clear goals and visible progress tracking  
 - Async communication preferred over long meetings  
+- Loves a light daily rhythm — a midday touchdown and an evening standup-style check-in, nothing heavier  
 
 ---
 

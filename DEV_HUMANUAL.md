@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-- 🧩 INFP-T | Thinks like a system, feels like a human.
+- 🧩 INFP/ENTP | Thinks like a system, feels like a human.
 - 🛠️ I build things across multiple domains:
   - Python / C++ / Bash / TypeScript
   - Next.js (App Router, pnpm, TypeScript-first)
@@ -20,6 +20,7 @@
 
 ## ⚙️ What Drives Me
 
+- Driven by love of the game: let it ride.
 - Solving real problems with simple, elegant solutions.
 - Building modular systems that *scale without chaos*.
 - Learning by breaking things — then fixing them cleaner.
@@ -45,6 +46,7 @@ I like working on things that **mean something**, not just *do something*.
 - I value **autonomy** — trust me to figure things out.
 - Feedback? Make it **specific** and **actionable**.
 - I’ll mirror your energy: chill = chill, focused = focused.
+- I like a light daily rhythm — a midday touchdown and an evening standup-style check-in, nothing heavier.
 
 > TL;DR: I don’t need micromanagement. I need clarity, context, and time to build.
 
