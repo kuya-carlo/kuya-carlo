@@ -4,6 +4,15 @@
 
 ---
 
+## 🙋 About Me
+
+- Karlo (kuyacarlo) — CompE student, Y3  
+- ENTP Type 5 — curious, systems-minded, likes exploring trade-offs before committing  
+- Driven by love of the game first; money is a cherry on top, not the point  
+- Into civic tech, and where tech, design, and culture intersect  
+
+---
+
 ## 💬 Communication
 
 - Straightforward, context-aware, and concise  
@@ -19,6 +28,7 @@
 - Practical, elegant, and meaningful solutions  
 - Minimal clutter, high clarity, and structured workflows  
 - Balance between speed and thoughtfulness  
+- Strong opinions, loosely held — prefers a clear recommendation over a neutral menu of options  
 
 ---
 
@@ -46,6 +56,7 @@
 - Hesitant to self-promote or monetize personal work  
 - Loses energy in poorly structured or overly social environments  
 - Needs clarity to avoid frustration or burnout  
+- When demotivated: give one small, concrete next step (under 2 minutes) instead of a list of choices  
 
 ---
 
