@@ -1,11 +1,13 @@
 # Iterate fast, think deep, ship meaning.
 
+> *"Think with reason, build with passion."*
+
 ### Heya! I’m John Carlo Santos (aka Karlo)  
 A generalist software engineer and student. I build clean, practical web systems, tinker with UI design, and experiment with new tools. Currently focused on **Next.js apps** and **Material Design 3**, while using Python for scripting and data tasks. Hyper-focused on projects that matter, and always happy to learn, share, and collaborate.  
 
-- 👀 Interests: Web API Development, Data Engineering, **CI/CD**, Cybersecurity  
+- 👀 Interests: Web API Development, Data Engineering, **CI/CD**, Cybersecurity, civic tech  
 - 🌱 Currently learning: **Go** and exploring Forensics basics
-- Want to see how I **learn, build, and think**? Check out my [Humanual](DEV_HUMANUAL.md) — it’s like a README for me.
+- Want to see how I **learn, build, and think**? Check out my [Humanual](HUMANUAL.md) — it’s like a README for me.
 
 ---
 
@@ -26,6 +28,12 @@ A generalist software engineer and student. I build clean, practical web systems
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Git Icon"/>
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg" alt="Shell Icon"/>
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" alt="Docker Icon"/>
+  </div>
+  <div>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg" alt="Go Icon"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" alt="Next.js Icon"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg" alt="TypeScript Icon"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg" alt="TailwindCSS Icon"/>
   </div>
   <div>
     <a href="https://github.com/kuyacarlo#gh-light-mode-only">

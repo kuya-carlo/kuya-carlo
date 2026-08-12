@@ -1,6 +1,7 @@
 # 🧠 Karlo — Personal Humanual
 
 > A quick guide to understanding, collaborating with, and working with me — both as a human and a developer.
+> *"Think with reason, build with passion."*
 
 ---
 
@@ -63,5 +64,5 @@
 
 ## 📌 Quick Links
 
-- [Dev Humanual](HUMANUAL.md) → my “developer system” version  
-- [GitHub Profile Stats](https://github.com/kuya-carlo) → check recent projects and contributions
+- [Dev Humanual](DEV_HUMANUAL.md) → my “developer system” version  
+- [GitHub Profile](https://github.com/kuyacarlo) → check recent projects and contributions
