@@ -4,6 +4,15 @@
 
 ---
 
+## 🙋 About Me
+
+- Karlo (kuyacarlo) — CompE student, Y3  
+- INFP/ENTP — curious, systems-minded, likes exploring trade-offs before committing  
+- Driven by love of the game: let it ride  
+- Into civic tech, and where tech, design, and culture intersect  
+
+---
+
 ## 💬 Communication
 
 - Straightforward, context-aware, and concise  
@@ -19,6 +28,7 @@
 - Practical, elegant, and meaningful solutions  
 - Minimal clutter, high clarity, and structured workflows  
 - Balance between speed and thoughtfulness  
+- Strong opinions, loosely held — prefers a clear recommendation over a neutral menu of options  
 
 ---
 
@@ -37,6 +47,7 @@
 - Structured, modular projects  
 - Clear goals and visible progress tracking  
 - Async communication preferred over long meetings  
+- Loves a light daily rhythm — a midday touchdown and an evening standup-style check-in, nothing heavier  
 
 ---
 
@@ -46,6 +57,7 @@
 - Hesitant to self-promote or monetize personal work  
 - Loses energy in poorly structured or overly social environments  
 - Needs clarity to avoid frustration or burnout  
+- When demotivated: give one small, concrete next step (under 2 minutes) instead of a list of choices  
 
 ---
 
