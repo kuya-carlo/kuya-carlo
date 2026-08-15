@@ -2,13 +2,14 @@
 
 > A generalist software engineer who builds systems that *feel* right — minimal, practical, and meaningful.
 > Fedora, Wayland-only. ADHD-coded and powered by curiosity.
+> *"Think with reason, build with passion."*
 
 ---
 
 ## 🧠 About Me
 
 - 🧩 INFP/ENTP | Thinks like a system, feels like a human.
-- 🛠️ Python / C++ / Bash / TypeScript, Next.js (App Router, pnpm), SQLite / Supabase / Docker, a bit of embedded + forensics.
+- 🛠️ Python / Go / C++ / Bash / TypeScript, Next.js (App Router, pnpm), SQLite / Supabase, Podman (rootless) / Docker, a bit of embedded + forensics.
 - 💡 Experiment first, document after.
 - Driven by love of the game: let it ride.
 
